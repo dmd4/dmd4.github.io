@@ -1,0 +1,15 @@
+# Ignore all bash/shell script files
+*.sh
+
+# Specific bash files
+clean_repo.sh
+git_commit.sh
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
